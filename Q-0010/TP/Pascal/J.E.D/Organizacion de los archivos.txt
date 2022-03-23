@@ -1,0 +1,12 @@
+El programa final se encuentra en J.E.D. app.pas
+En la carpeta
+             Menu: obviamente esta el menu general de la aplicacion
+             Jugando con Arboles: hay dos grupos
+                                                Imprimir: un boceto de los algoritmos principales para la estructura
+                                                Jugando: el programa entero para la estructura con menus y demas
+             Jugando con Listas: hay dos grupos
+                                                Imprimir: un boceto de los algoritmos principales para la estructura
+                                                Jugando: el programa entero para la estructura con menus y demas
+             Jugando con Vectores: hay dos grupos
+                                                Imprimir: un boceto de los algoritmos principales para la estructura
+                                                Jugando: el programa entero para la estructura con menus y demas
