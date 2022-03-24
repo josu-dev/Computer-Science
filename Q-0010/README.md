@@ -8,6 +8,6 @@ Programas generados durante el segundo semestre
 
 <br> <br>
 
-> ... Seguro hay un par de bugs :)
+###### ... Seguro hay un par de bugs :)
 
 </div>
