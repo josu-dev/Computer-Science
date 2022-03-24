@@ -16,7 +16,7 @@ Este repositorio tiene como objetivo agrupar los proyectos que desarrolle a lo l
 
 - Q : Cuatrimestre
 - 0000 : Numero del cuatrimestre en binario
-- SIGLAS : Cada cuatrimestre se subdivide en las materias de cada semestre nombrado por las siglas (si hice contenido sobre ellaa)
+- SIGLAS : Cada cuatrimestre se subdivide en las materias del mismo, estas nombradas por sus siglas (solo si hice contenido)
 
 
 

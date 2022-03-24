@@ -54,11 +54,23 @@ FRAMES = {
 }
 
 WORDS_DICT = {
-    'Colors' :'red orange yellow green blue indigo violet white black brown'.split(),
-    'Shapes' :'square triangle rectangle circle ellipse rhombus trapazoid chevron pentagon hexagon septagon octogon'.split(),
-    'Fruits' :'apple orange lemon lime pear watermelon grape grapefruit cherry banana cantalope mango strawberry tomato'.split(),
-    'Animals':'bat bear beaver cat cougar crab deer dog donkey duck eagle fish frog goat leech lion lizard monkey moose mouse otter owl panda python rabbit rat shark sheep skunk squid tiger turkey turtle weasel whale wolf wombat zebra'.split()
+    'Colores' :'rojo naranja amarrillo verde azul celeste violeta blanco negro marron esmeralda cafe gris rosa bordo beille'.split(),
+    'Figuras' :'cuadrado triangulo rectangulo circulo elipse rombo trapezoide pentagono hexagono octagono '.split(),
+    'Comida' :'manzana naranja limon lima pera sandia cereza banana mango frutilla tomate '\
+              'berenjena cebolla repollo calabaza zuchini papa acelga espinaca lechuga apio batata '\
+              'asado milanesa choripan'.split(),
+    'Animales':'murcielago oso gato cangrejo perro mono pato aguila pescado rana cabra leon raton panda piton tiburon oveja pulpo tigre tortuga ballena lobo zebra camello elefante'.split(),
+    'Programacion': 'adga algol assembly '\
+                    'basic '\
+                    'csharp clojure coffescript crystal '\
+                    'dart delphi '\
+                    'fortran '\
+                    'go '\
+                    'haskell '\
+                    'java javascript '\
+                    'python typescriptt robotscript rinfo rust'.split()
 }
+
 
 
 
